@@ -1,0 +1,3 @@
+Predictive Maintenance Model built using LSTM and CNN to forecast equipment failures and optimize maintenance schedules. LSTM captures temporal dependencies in time-series sensor data, while CNN extracts key features, creating a powerful hybrid approach for predictive analytics.
+
+The model analyzes historical and real-time data to predict breakdowns, enabling proactive maintenance strategies that reduce downtime, lower repair costs, and improve operational efficiency. Designed for industries focused on asset reliability, the repository includes preprocessing scripts, model architecture, and training pipelines for easy implementation and deployment.
